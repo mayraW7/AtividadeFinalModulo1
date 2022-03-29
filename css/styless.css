@@ -1,0 +1,73 @@
+#esquerda {
+  background-color: rgb(43, 43, 43);
+  width: 23%;
+  height: 100vh;
+  float: left;
+}
+
+.botoes {
+  position: absolute;
+  background-color: rgb(255, 244, 87);
+  text-align: center;
+  top: 400px;
+  width: 250px;
+  line-height: 80px;
+}
+
+#direita {
+  background-color: rgb(255, 244, 87);
+  width: 77%;
+  height: 100vh;
+  float: right;
+}
+
+#nome {
+  text-align: left;
+  margin-top: 160px;
+  margin-left: 50px;
+  font-size: 100px;
+  font-family: fantasy;
+}
+
+.icones {
+  float: right;
+  margin-top: 2%;
+  margin-bottom: 0px;
+  margin-right: 20px;
+}
+
+.end {
+  text-align: left;
+  margin-top: 0px;
+  margin-left: 140px;
+  font-size: 30px;
+  font-family: fantasy;
+}
+img {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.email {
+  text-decoration: none;
+}
+
+.sobre {
+  text-align: left;
+  font-size: large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 50px;
+  padding-left: 100px;
+  background-color: rgb(255, 208, 0);
+}
+
+.sobre .objetivos {
+  padding: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-size: x-large;
+  font-family: fantasy;
+}
